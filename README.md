@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Objectifs
 - Mettre en place l'environnement de travail du dataops
   - outils installés et configurés : git, VSCode, heroku, python
@@ -123,3 +124,8 @@ Vue de la commande
 
 ![app locale vue cli](img/heroku_local_cli.jpg)
 
+=======
+# heroku
+DataOps
+>>>>>>> b142504ee26e2aea3f9aa8e758f4115eb99317b3
+# tp2
